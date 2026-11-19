@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "柏斯詹姆斯・莫瑞皇家精神病院第 23 年報（1850） / Twenty-third Annual Report of the Directors of James Murray’s Royal Asylum for Lunatics — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/perth-murray-royal-asylum-annual-report-1850",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "蘇格蘭",
+    "住院照護",
+    "James Murray’s Royal Asylum",
+    "Perth",
+    "history of psychiatry",
+    "Poor Law",
+    "readmissions",
+    "asylum annual reports",
+    "historical transcription"
+  ]
+}
