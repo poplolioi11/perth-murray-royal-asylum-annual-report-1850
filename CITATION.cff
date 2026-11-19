@@ -3,7 +3,7 @@
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
   "title": "柏斯詹姆斯・莫瑞皇家精神病院第 23 年報（1850） / Twenty-third Annual Report of the Directors of James Murray’s Royal Asylum for Lunatics — Transcription Dataset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
     {

@@ -1,7 +1,7 @@
 {
   "source_title": "Twenty-third Annual Report of the Directors of James Murray’s Royal Asylum for Lunatics",
   "title_zh": "柏斯詹姆斯・莫瑞皇家精神病院第 23 年報（1850）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://wellcomecollection.org/works/nk4zeh44",
   "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b30317071",
@@ -224,7 +224,7 @@
           "id": "f004-s",
           "side": "S",
           "printed_page": null,
-          "status": "blank",
+          "status": "digitisation_overlay",
           "units": [],
           "notes": [
             "Modern Internet Archive digitisation credit and URL on a blank verso with show-through. Excluded from 1850 printed text."
@@ -274,12 +274,13 @@
             },
             {
               "kind": "text",
-              "text": "Another gratifying circumstance in the statistics of the past year, is the number of cures as compared with the admissions, the former being very nearly one-half of the latter, a fact which ought to operate as a powerful inducement to the friends of the insane, to procure for them, at an early stage of their malady, the benefits of a well conducted Asylum. “The Physician,” observes Dr Conolly, “to any large Asylum, must, among the recollections of any one year, have that of Patients brought to the Asylum a few days, or a week or two, after the mania appeared, and of having seen them wild, and bewildered, and impulsive, and scarcely conscious, and presenting many or all of the phenomena which have been enumerated, and yet who, in a few months, and sometimes in a few weeks, and sometimes in a few days, have been trans-",
+              "text": "Another gratifying circumstance in the statistics of the past year, is the number of cures as compared with the admissions, the former being very nearly one-half of the latter, a fact which ought to operate as a powerful inducement to the friends of the insane, to procure for them, at an early stage of their malady, the benefits of a well conducted Asylum. “The Physician,” observes Dr Conolly, “to any large Asylum, must, among the recollections of any one year, have that of Patients brought to the Asylum a few days, or a week or two, after the mania appear□d, and of having seen them wild, and bewildered, and impulsive, and scarcely conscious, and presenting many or all of the phenomena which have been enumerated, and yet who, in a few months, and sometimes in a few weeks, and sometimes in a few days, have been trans-",
               "id": "f005-s-u05"
             }
           ],
           "notes": [
-            "The second e in 'appeared' has a small printing/abrasion defect and is read tentatively. The last hyphen represents a split across frames."
+            "The second e in 'appeared' has a small printing/abrasion defect and is read tentatively. The last hyphen represents a split across frames.",
+            "In the line about the appearance of mania, the penultimate letter of appear□d is faint. The outline is compatible with e, but only the lower curve is strongly visible."
           ]
         }
       ]
@@ -577,7 +578,8 @@
             }
           ],
           "notes": [
-            "The two inner Male./Fem. blocks appear within the left printed column. They are represented as separate columns; the two unlabeled rows are aligned with the lower rule of each inner block and are not individual death counts."
+            "The two inner Male./Fem. blocks appear within the left printed column. They are represented as separate columns; the two unlabeled rows are aligned with the lower rule of each inner block and are not individual death counts.",
+            "Table I labels the first cumulative span as ending in June 1850, but the resulting remaining population is labelled June 1849. Both dates are retained."
           ]
         }
       ]
@@ -716,7 +718,9 @@
               "id": "f009-s-u03"
             }
           ],
-          "notes": []
+          "notes": [
+            "The paragraph names the forty-to-forty-five age band; the printed table has its largest total in 45 to 50 years. Both are retained."
+          ]
         }
       ]
     },
